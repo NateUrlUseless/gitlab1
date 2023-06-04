@@ -1,9 +1,9 @@
 # Задание 1
 Здравствуйте, предлагаю вашему вниманию скриншоты с установленным GitLab где находится созданный мной пустой репозито>
 
-![Скриншот 1](https://github.com/NateUrlUseless/gitlab1/1.png)
-![Скриншот 2](https://github.com/NateUrlUseless/gitlab1/2.png)
-![Скриншот 3](https://github.com/NateUrlUseless/gitlab1/5.png)
+![Скриншот 1](https://github.com/NateUrlUseless/gitlab1/blob/main/1.png)
+![Скриншот 2](https://github.com/NateUrlUseless/gitlab1/blob/main/2.png)
+![Скриншот 3](https://github.com/NateUrlUseless/gitlab1/blob/main/5.png)
 Так же представляю настройки doker-runner
 ```
 docker run --rm -v /srv/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-runner register \
@@ -24,8 +24,8 @@ docker run --rm -v /srv/gitlab-runner/config:/etc/gitlab-runner gitlab/gitlab-ru
 
 Тут я запушил представленный репозиторий в котором я изменил origin(название origin).
 В этом задание репозиторий немного отличается так как я уже делал форк из предыдущего задания, в discord мне ответили что такое допускается.
-![Скриншот 4](https://github.com/NateUrlUseless/gitlab1/3.png)
-![Скриншот 5](https://github.com/NateUrlUseless/gitlab1/4.png)
+![Скриншот 4](https://github.com/NateUrlUseless/gitlab1/blob/main/3.png)
+![Скриншот 5](https://github.com/NateUrlUseless/gitlab1/blob/main/4.png)
 
 .gitlab-ci.yml:
 
